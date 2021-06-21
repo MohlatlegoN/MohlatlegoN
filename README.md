@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohlatlego Nakeng, Machine Learning engineer and software developer, South Africa, JHB.
 - 👀 I am am intermediate software developer for artificial intelligence and intelligent systems applications.
 - 🌱 I am currently a masters researcher in the field of machine learning, data mining and natural langauge processing at the University of Pretoria, ZA.
-- 💞️ I’m looking to collaborate on natural langauge and machine learning projects both industrial and academic.
+- 💞️ I’m looking to collaborate on natural langauge and machine learning projects in both industrial and academic.
